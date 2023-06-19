@@ -1,0 +1,18 @@
+According to the question, [restate the concepts being mentioned in the prompt] + [object] + is + [concept content] + Examples of + [object] + are + [example 1] + [example 2] + [example 3].
+[object] + is + [concept]. For example, [object] + is + [example 1] + [example 2] + [example 3].
+[cause] + [effect] + because of + [object] + [context of concept] + Therefore + [restate cause and effect relationship].
+The features/main concepts/advantage/disadvantage + of + [object] + are + [main point 1] + [main point 2] + [main point 3].
+The main idea of [object/concept] is [context]. The significance of [object] is + [point 1] + [point 2] + [point 3].
+The purpose of [event/concept] is [context]. In order to accomplish [purpose context], the [personas] + did + [context].
+The central theme of [object] is [context] because [reason 1] + [reason 2] + [reason 3] + [restate the purpose].
+The question asks about the steps to do [given question]. The steps to accomplish this are [step 1] + [step 2] + [step 3]. The [concept] is being applied by [context].
+In order to do [given question prompt], [concept] can be used to solve the problem. To [concept], [explain how to apply the concept to the situation].
+[concept] can be applied as [context] because + [reason 1] + [reason 2] + [reason 3].
+The decision/choice being made should be + [concept].[explain how is the concept related to the context given in the question].
+The key components/factors of [object] are [component/factor 1] + [explanation] + [component/factor 2] + [explanation] + [component/factor 3] + [explanation]. Therefore, [restate the components/factors] are the key elements.
+The perspective of [concept] varies. One obvious perspective is [context 1], however, the underlying perspectives are [context 2]+ [context 3] because [explanation]. It may also be influenced by [context 4].
+Both [object A] and [object B] display similarities to [context 1] and [context 2]. Therefore, the possible drawn pattern can be [pattern explained]. Given the pattern, it can be predicted that the [trend] is possible because [reasons explained].
+[object 1] and [object 2] share similarities but also differs from each other. Similarities are [concept 1], [concept 2], and [concept 3]. Meanwhile, the differences are [diff 1], [diff 2], [diff 3].
+[concepts] + [results] implies [concept 1], [concept 2], and [concept 3]. The reasons are [explanation].
+[object] is [explain object concept]. It excels in [situation/concept 1], [situation/concept 2], and [situation/concept 3]. Meanwhile, its weaknesses are [weak 1], [weak 2], and [weak 3].
+According to [concept 1], we can create the [given question] prototype by using [concept 1], [concept 2], and [concept 3]. The prototype can be evaluated by [context].
