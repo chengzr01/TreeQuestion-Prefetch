@@ -63,7 +63,7 @@ def prefetch(concept, field, level):
     # step 4: prefetch distractor statement
     distractor_candidates = []
     for relation in tqdm(graph_text, desc="[Distractor]"):
-        for template in tqdm(heuristic_list, desc="[Heuristics]"):
+        for template in heuristic_list:
             distractor_result = requests.post(
                 url=
                 "http://18.206.229.27:8000/tree/create_distractor_statement",
@@ -112,7 +112,11 @@ def main():
         field = row["field"]
         level = row["level"]
         print(f"prefetch: {concept} {field} {level}")
-        prefetch(row["concept"], row["field"], row["level"])
+        try:
+            prefetch(row["concept"], row["field"], row["level"])
+        except:
+            print("Error!")
+            continue
 
 
 if __name__ == '__main__':
